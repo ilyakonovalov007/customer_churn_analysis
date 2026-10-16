@@ -6,7 +6,7 @@
 
 ## Dashboard
 
-![Customer Churn Dashboard](dashboard.png)
+![Customer Churn Dashboard](dashboard.jpg)
 
 ## Инструменты
 
